@@ -15,7 +15,7 @@ const Services = () => {
       title: "Маникюр",
       description:
         "Классический и европейский маникюр, гель-лак, дизайн ногтей",
-      price: "от 1200 ₽",
+      price: "от 900 ₽",
       duration: "60-90 мин",
       image:
         "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=400&h=300&fit=crop",
