@@ -8,9 +8,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Icon name="Sparkles" className="text-beauty-pink" size={24} />
-              <h4 className="text-xl font-montserrat font-bold">
-                Belle Studio
-              </h4>
+              <h4 className="text-xl font-montserrat font-bold">LAKI</h4>
             </div>
             <p className="text-gray-300 font-open mb-4">
               Салон красоты с душой. Создаем красоту и уверенность каждый день.
@@ -73,7 +71,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-400 font-open">
-            © 2024 Belle Studio. Все права защищены.
+            © 2024 LAKI. Все права защищены.
           </p>
         </div>
       </div>

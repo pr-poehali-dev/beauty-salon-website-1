@@ -9,7 +9,7 @@ const Header = () => {
           <div className="flex items-center space-x-2">
             <Icon name="Sparkles" className="text-beauty-purple" size={28} />
             <h1 className="text-xl font-montserrat font-bold text-beauty-dark">
-              Belle Studio
+              LAKI
             </h1>
           </div>
 
