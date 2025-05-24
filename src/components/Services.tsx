@@ -25,7 +25,7 @@ const Services = () => {
     {
       title: "Педикюр",
       description: "Медицинский и косметический педикюр, уход за стопами",
-      price: "от 1500 ₽",
+      price: "от 1900 ₽",
       duration: "90-120 мин",
       image:
         "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?w=400&h=300&fit=crop",
